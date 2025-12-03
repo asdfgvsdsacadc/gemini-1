@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Christmas Tree",
+  "description": "An interactive 3D particle Christmas tree in a cosmic environment. Features an exploding and reassembling particle effect using Three.js and GSAP.",
+  "requestFramePermissions": []
+}
